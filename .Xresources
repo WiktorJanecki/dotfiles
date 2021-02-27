@@ -1,0 +1,10 @@
+*.foreground: #93a1a1
+*.background: #131c21
+URxvt.scrollBar:false
+URxvt*font: xft:bitstream vera sans mono:size=20:antialias=true
+URxvt.perl-ext-common: ...,bell-command,...
+URxvt.bell-command: canberray-gtk-play -i /usr/share/sounds/gnome/default/alerts/drip.ogg
+URxvt*.transparent: false
+URxvt*.shading: 30
+URxvt*.blurRadius: 0
+URxvt.fading: 40
